@@ -5,9 +5,8 @@ Todo:
     - Calculate total number of sites in list
     - Implement simple searching
     - Consider adding pagination for larger lists
-    - Link to GitHub
-    - Host website on GitHub / Heroku
     - Build and deploy badges should be links to Jenkins jobs
+    - As a best practice, consider sanitizing JSON content before injecting html into page
 
 */
 
