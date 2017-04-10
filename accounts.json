@@ -1,0 +1,20 @@
+{
+  "Planet": 
+    {
+      "build_status": "https://ci.planet.admin.us-west-2.planet.nubis.allizom.org/buildStatus/icon?job=planet-build",
+      "deploy_status": "https://ci.planet.admin.us-west-2.planet.nubis.allizom.org/buildStatus/icon?job=planet-deployment",
+      "ci_url": "https://ci.planet.admin.us-west-2.planet.nubis.allizom.org"
+    },
+    "TLS Canary":
+    {
+      "build_status": "https://ci.tlscanary.admin.us-west-2.tlscanary.nubis.allizom.org/buildStatus/icon?job=tlscanary-build",
+      "deploy_status": "https://ci.tlscanary.admin.us-west-2.tlscanary.nubis.allizom.org/buildStatus/icon?job=tlscanary-deployment",
+      "ci_url": "https://ci.tlscanary.admin.us-west-2.tlscanary.nubis.allizom.org/"
+    },
+    "Virtual-Redirects":
+    {
+      "build_status": "https://ci.virtual-redirects.admin.us-west-2.virtual-redirects.nubis.allizom.org/buildStatus/icon?job=virtual-redirects-build",
+      "deploy_status": "https://ci.virtual-redirects.admin.us-west-2.virtual-redirects.nubis.allizom.org/buildStatus/icon?job=virtual-redirects-deployment",
+      "ci_url": "https://ci.virtual-redirects.admin.us-west-2.virtual-redirects.nubis.allizom.org/"
+    }
+}
